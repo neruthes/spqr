@@ -39,7 +39,7 @@ Sample:
 ```json
 {
 	"id": "6b747739dc4e4d5ab18bfe7906fafb45",
-	"name": "Enhance Wikipedia"
+	"name": "Enhance Wikipedia",
 	"version": "1.0.0",
 	"author": "Neruthes <neruthes.xyz>",
 	"github_username": "neruthes",
