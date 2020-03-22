@@ -1,0 +1,11 @@
+{
+	"id": "9a5a3ad359c2416ead609c80962d03e6",
+	"name": "Switch Font",
+	"version": "1.0.0",
+	"author": "Neruthes <neruthes.xyz>",
+	"github_username": "neruthes",
+	"license": "AGPL-3.0",
+	"homepage": "https://github.com/neruthes/jsu",
+	"match": [ "." ],
+	"auto": [ "." ]
+}
