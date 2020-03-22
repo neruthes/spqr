@@ -12,8 +12,10 @@
 		3: Monospace
 	}
 */
+
+console.log('[SPQR] "switch-font.js": Loaded from SPQR.');
+
 window.uuid_9a5a3ad359c2416ead609c80962d03e6_func = function (argv, callback) {
-	console.log('[SPQR] "switch-font.js": Loading from SPQR instead of JSU.');
 	var givenState = argv ? argv.font : undefined;
 	if ([0,1,2,3,undefined].indexOf(givenState) === -1) {
 		givenState = undefined;
